@@ -125,7 +125,7 @@ p {
 }
 
 .row-8:nth-child(odd) {
-  width: 55px;
+  width: 80px;
   background-color: orange;
 }
 
