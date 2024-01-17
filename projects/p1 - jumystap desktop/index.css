@@ -349,3 +349,9 @@ input {
     font-weight: 500;
     line-height: 18px; /* 128.571% */
 }
+
+.icon {
+    align-self: center;
+    width: 20px;
+    height: 20px;
+}
