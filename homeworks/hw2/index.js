@@ -15,7 +15,6 @@ let staff = {
     employer2: {
         name: "Marat",
         age: 16,
-        
     }
 }
 
